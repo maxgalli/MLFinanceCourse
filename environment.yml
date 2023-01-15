@@ -1,0 +1,14 @@
+name: MLFinanceCourse
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyterlab>=2.0.0
+  - numpy>=1.18.1
+  - pandas
+  - notebook
+  - ipywidgets>=7.5
+  - yfinance
+  - matplotlib
+  - cufflinks-py
+  - plotly
